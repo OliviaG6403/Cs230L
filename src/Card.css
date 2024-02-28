@@ -1,0 +1,35 @@
+.Cards {
+    display: flex; 
+    gap: 5px; 
+    justify-content:center;
+
+} 
+.Card01 {
+    background-color: rgb(99, 99, 248);
+    font-size: 16pt;
+    height: 150px;
+    width: 200px;
+    background-size: 60vw;
+    border: solid 2px black;
+    align-content: center;
+}
+
+.Card02 {
+    background-color: rgb(189, 93, 189);
+    font-size: 16pt;
+    height: 150px;
+    width: 200px;
+    background-size: 60vw;
+    border: solid 2px black;
+}
+
+.Card03 {
+    background-color: rgb(231, 143, 231);
+    font-size: 16pt;
+    height: 150px;
+    width: 200px;
+    background-size: 60vw;
+    border: solid 2px black;
+}
+
+
